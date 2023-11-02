@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm krishna</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 
-<img align="right" width=400 alt="coding"src="https://th.bing.com/th/id/OIP.6qnP8ZHESN0IhK15TWdahAHaFj?pid=ImgDet&rs=1"
+<img align="right" width=400 alt="coding" src="https://th.bing.com/th/id/OIP.6qnP8ZHESN0IhK15TWdahAHaFj?pid=ImgDet&rs=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaomre&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaomre" /> </p>
 
